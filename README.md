@@ -11,6 +11,7 @@ This repository contains all the tasks and projects completed during my AI Inter
 - Tasl 04 : Music Generation With AI
 - README.md
 
+______
 - Each task folder includes:
 - 📁 Source Code
 - 📄 Project Documentation
