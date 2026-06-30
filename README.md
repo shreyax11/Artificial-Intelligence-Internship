@@ -1,6 +1,6 @@
-# 🚀 CodeAlpha Python Programming Internship – July 2026
+# 🚀 CodeAlpha Artificial Intelligence Internship – July 2026
 
-Welcome to my **CodeAlpha Python Programming Internship** repository. This repository showcases all the projects I completed during the internship, demonstrating my skills in **Python Programming, Artificial Intelligence, Machine Learning, Natural Language Processing, and Computer Vision**.
+Welcome to my **CodeAlpha Artificial Intelligence Internship** repository. This repository showcases all the projects I completed during the internship, demonstrating my skills in **Python Programming, Artificial Intelligence, Machine Learning, Natural Language Processing, and Computer Vision**.
 
 Each project focuses on solving real-world problems using modern Python libraries and industry-relevant technologies while following clean coding practices and modular project structures.
 
@@ -63,7 +63,7 @@ A Natural Language Processing (NLP) based chatbot that answers frequently asked 
 
 ---
 
-## 🎥 Task 3 – AI Smart Surveillance System
+## 🎥 Task 3 – Object Detection And Tracking System
 
 An AI-powered real-time object detection and tracking system capable of detecting, classifying, and tracking multiple objects from webcam and video streams using state-of-the-art computer vision models.
 
